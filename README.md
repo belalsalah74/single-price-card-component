@@ -18,7 +18,7 @@ Users should be able to:
 
 -[Solution URL](https://www.frontendmentor.io/solutions/single-price-grid-component-Zp5-Mn0VK3)
 
-- [Live Site URL](https://belalsalah74.github.io/frontendmentor-challenge-single-price-card/)
+- [Live Site URL](https://belalsalah74.github.io/single-price-card-component/)
 
 ### Built with
 
