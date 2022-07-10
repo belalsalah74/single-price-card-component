@@ -16,8 +16,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [#](#)
-- Live Site URL: [#](#)
+-[Solution URL:](https://www.frontendmentor.io/solutions/single-price-grid-component-Zp5-Mn0VK3)
+
+- [Live Site URL:](https://belalsalah74.github.io/frontendmentor-challenge-single-price-card/)
 
 ### Built with
 
@@ -28,4 +29,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@belalsalah74](https://www.frontendmentor.io/profile/belalsalah74)
