@@ -11,14 +11,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile](./images/sc-mobile.png)
-![Desktop](./images/sc-desktop.png)
+-[Mobile](./images/sc-mobile.png)
+-[Desktop](./images/sc-desktop.png)
 
 ### Links
 
--[Solution URL:](https://www.frontendmentor.io/solutions/single-price-grid-component-Zp5-Mn0VK3)
+-[Solution URL](https://www.frontendmentor.io/solutions/single-price-grid-component-Zp5-Mn0VK3)
 
-- [Live Site URL:](https://belalsalah74.github.io/frontendmentor-challenge-single-price-card/)
+- [Live Site URL](https://belalsalah74.github.io/frontendmentor-challenge-single-price-card/)
 
 ### Built with
 
